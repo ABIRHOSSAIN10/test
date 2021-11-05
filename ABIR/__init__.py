@@ -1,2 +1,2 @@
-from ABIR import call
+from ABIR.zabir import call
 call()
