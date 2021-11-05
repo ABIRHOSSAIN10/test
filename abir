@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python2
+import time
+am=int(input("amount"))
+for i in range(am):
+	print("hello")
+	time.sleep(1)
