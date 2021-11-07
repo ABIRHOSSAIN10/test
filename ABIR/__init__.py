@@ -1,2 +1,3 @@
 from ABIR.zabir import call
-call()
+if __name__ == "__main__":
+      call()
