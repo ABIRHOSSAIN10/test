@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 VERSION = "0.1"
 DESCRIPTION = "This is a test file"
 setup(
-    name ="ABIR",
+    name ="ABIR10",
     version = VERSION,
     description = DESCRIPTION,
     long_description = long_description,
